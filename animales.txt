@@ -16,3 +16,7 @@ Mosquito
 Mariposa
 Escarabajo
 Lombriz
+
+Dragón de Comodo
+Cocodrilo
+
