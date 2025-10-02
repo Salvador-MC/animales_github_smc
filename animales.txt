@@ -20,3 +20,6 @@ Lombriz
 Dragón de Comodo
 Cocodrilo
 
+Dragón
+Ave Fenix
+Hada
